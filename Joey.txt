@@ -1,1 +1,4 @@
 Heyy world!!
+line = line
+eraseLine
+eaeae
